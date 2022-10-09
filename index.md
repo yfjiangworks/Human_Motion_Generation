@@ -20,19 +20,4 @@ We introduce the proposed method in this section with details. In above figure, 
 Examples of synthetic 'point to something' (top) and 'kick something' (bottom) action sequences.
 </p>
 
-# Acknowlegements
-This research work is supported by a National Research Foundation (NRF) grant funded by the MSIP of Korea (number 2019R1A2C2009480).
-
-# Citation
-```
-@article{jiang2020covid,
-  title={COVID-19 CT image synthesis with a conditional generative adversarial network},
-  author={Jiang, Yifan and Chen, Han and Loew, Murray and Ko, Hanseok},
-  journal={IEEE Journal of Biomedical and Health Informatics},
-  volume={25},
-  number={2},
-  pages={441--452},
-  year={2020},
-  publisher={IEEE}
-}
-```
+# This work is under preprinting
