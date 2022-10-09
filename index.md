@@ -20,4 +20,4 @@ We introduce the proposed method in this section with details. In above figure, 
 Examples of synthetic 'point to something' (top) and 'kick something' (bottom) action sequences.
 </p>
 
-# This work is under preprinting
+# This work is under preprinting.
